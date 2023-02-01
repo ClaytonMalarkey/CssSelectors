@@ -8,3 +8,14 @@ h1, h2, h3 {
     background-color: black;
     color: yellow;
 }
+main h1{
+    color: red;
+    background-color: black;
+}
+main p{
+    color: white;
+    background-color: red;
+}
+p~h1 {
+    font-size: "72px";
+}
